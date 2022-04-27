@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Documents\PSoC Creator\1635_Labs\Design01.cydsn\Design01.cyprj|ebbcc22d-afe4-4ae9-87c9-b7cacfb463c9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|775892b9-d5ad-496d-81cc-710781171311
+\\vmware-host\Shared Folders\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|21657c77-e925-4990-8119-f04b5fb9a3e3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5e4a2ba6-8c75-4612-b0eb-65137f573510
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|73ebab73-c88c-42d1-aac5-787f7cb320df
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|73fb1729-5568-451a-a882-a9bc5a6335c9
+\\vmware-host\Shared Folders\Documents\PSoC Creator\1635_Labs\Lab02.cydsn\Lab02.cyprj|73e995a5-a8fe-436e-9b9f-b5194a792071
+\\vmware-host\Shared Folders\Documents\PSoC Creator\1635_Labs\Lab3.cydsn\Lab3.cyprj|77d36088-2ed1-4de4-8de7-a6a79db9575e
+\\vmware-host\Shared Folders\Documents\PSoC Creator\1635_Labs\Lab4.cydsn\Lab4.cyprj|4983e47e-6924-4661-ba33-ac76632e96f0
